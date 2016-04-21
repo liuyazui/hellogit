@@ -1,6 +1,8 @@
 #include <iostream>
 
-void main
+void main()
 {
-	std::cout<<"hello git";
+	std::cout<<"hello git"<<std::endl;
+
+	std::cout<<"change sth in vs, commit and push."<<std::endl;
 }
